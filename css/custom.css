@@ -244,3 +244,26 @@ Lists
   margin-bottom: 20px;
 
 }
+
+.finale{
+  text-align: center;
+}
+
+.finale h2{
+  margin-top:10px;
+  text-transform:uppercase;
+  letter-spacing: 1px;
+  /*font-size:1.5em;*/
+  font-weight: 500;
+}
+
+.finale p{
+  text-transform: uppercase;
+  margin-bottom: 40px;
+}
+
+.finale ul{
+  list-style-type: none;
+}
+
+.finale
