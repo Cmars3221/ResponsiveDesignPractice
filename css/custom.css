@@ -210,3 +210,37 @@ nav#main ul li a{
 .recent .more{
   margin-top: 40px;
 }
+
+
+.recent ul li a{
+  color:#fff;
+  border: 2px solid transparent;
+  padding: 8px 20px;
+  border-radius: 5px;
+}
+
+/*opitonal..*/
+
+.recent ul li.selected a{
+   background: #fff;
+   color:#000000;
+  }
+
+.recent ul li a:hover{
+  border:2px solid #fff;
+}
+/**
+Lists
+**/
+
+
+.inline-list{
+  list-style-type: none;
+}
+
+.inline-list li{
+  display: inline-block;
+  margin: 0 20px;
+  margin-bottom: 20px;
+
+}
