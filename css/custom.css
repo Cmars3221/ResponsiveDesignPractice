@@ -127,4 +127,14 @@ nav#main ul li a{
 
  .features h5{
    font-weight: 600;
+   font-size:1.4em;
+ }
+
+ .features p{
+   font-size: 80%;
+   margin-bottom: 40px;
+ }
+
+ .features img{
+   margin-bottom: 20px;
  }
