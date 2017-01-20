@@ -117,3 +117,14 @@ nav#main ul li a{
    margin-bottom: 40px;
 
  }
+
+
+ /**features**/
+
+ .features{
+   text-align: center;
+ }
+
+ .features h5{
+   font-weight: 600;
+ }
