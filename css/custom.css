@@ -2,7 +2,7 @@
 body{
 
   font-family: 'Open Sans', sans-serif;
-  margin:0; /* to rid of margin*/
+  /*margin:0; /* to rid of margin*/*/
 
 }
 
@@ -34,7 +34,7 @@ h1,h2,h3,h4,h5{
 /**Header**/
 
 header#main{
-
+  margin-bottom: 40px;
 
 }
 
@@ -72,10 +72,28 @@ nav#main ul li a{
   font-size: 78%;
   font-weight:600;
   text-transform: uppercase;
-  color: #393f4a;
 
 }
 
  nav#main ul li a:not(.button){
      color:#393f4a;
+ }
+
+/*button adjustment in nav*/
+/*a.button.button-primary{
+  margin-bottom: 0;
+}*/
+
+ /** BUTTONS **/
+
+  .button{
+    padding: 14px 30px;
+    border-radius:5px;
+  }
+
+ .button-primary,
+ .button-primary:hover{
+   background-color: #3a3a3a;
+   color:#fff;
+
  }
