@@ -30,6 +30,41 @@ h1,h2,h3,h4,h5{
   background-color: #ecbe4d;
 }
 
+.background-green{
+  background-color: #058854;
+}
+
+.background-grey{
+  background-color: #4B4B4D
+}
+
+.background-black{
+  background-color: #000000;
+}
+
+.background-white{
+  background-color: #fff;
+}
+
+.background-wine{
+  background-color: #BA0000;
+}
+
+.background-yellow{
+  background-color: #FFFFAB
+}
+
+.background-babyblue{
+  background-color: #7ecefd;
+}
+
+.background-purple{
+  background-color: #8030D0;
+}
+
+.background-blue{
+  background-color:#0000FF;
+}
 
 /**Header**/
 
@@ -138,3 +173,29 @@ nav#main ul li a{
  .features img{
    margin-bottom: 20px;
  }
+
+
+/**Recent**/
+
+.recent{
+ text-align: center;
+
+}
+
+.recent h2{
+  color: #ECBE4D;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.recent p{
+  margin-bottom: 60px;
+  color:#FFFFAB;
+}
+
+.recent .item{
+
+   padding: 100px 0;
+   margin-top: 30px;
+
+}
