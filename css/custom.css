@@ -42,7 +42,9 @@ header#main .brand a{
 
   font-family: "Pacifico";
   font-size:2em;
-  color: #393f4a
+  color: #393f4a;
+  display:block;
+  margin-bottom: 20px;
 
 }
 
@@ -95,5 +97,23 @@ nav#main ul li a{
  .button-primary:hover{
    background-color: #3a3a3a;
    color:#fff;
+
+ }
+
+
+ /**Second Section Features**/
+
+
+ .section2{
+   margin-top:20px;
+ }
+
+ .section2 h1{
+   font-size:5.5em;
+   color:#000000;
+   text-transform:uppercase;
+   font-weight:900;
+   line-height:70px;
+   margin-bottom: 40px;
 
  }
